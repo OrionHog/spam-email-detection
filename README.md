@@ -1,2 +1,2 @@
-# spam-email-detection
+# SIMPBT_01
 Spam email detection using Logistic Regression
